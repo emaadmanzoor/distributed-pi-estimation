@@ -12,12 +12,10 @@ of Dr. Biju K. R.
    * Our system is *fully worker-fault-tolerant*.
    * Our system is *partially server-fault-tolerant*.
 
-## Team Members
+## Contributors
 
    * Emaad Ahmed Manzoor
    * Rachee Singh
-   * Murtuza Kutub
-   * Mohit Yadav
 
 ## Design And Implementation
 
@@ -28,3 +26,7 @@ is available on my [blog][4].
 [2]: https://github.com/kr/beanstalkd
 [3]: https://github.com/earl/beanstalkc
 [4]: http://www.eyeshalfclosed.com/blog/2012/03/17/throwing-darts/
+
+## See Also
+
+[Distributed matrix multiplication with Beanstalkd](https://github.com/racheesingh/Beanstalkd-Cluster)
